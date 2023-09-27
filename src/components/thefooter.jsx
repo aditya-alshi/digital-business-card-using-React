@@ -11,7 +11,7 @@ export default function Footer() {
           <img src="/facebook -Icon.png" alt="Facebook" className="all-social-media-icons" />
         </a>
         <a href="https://www.instagram.com/aditya_alshi_/" target="_blank" rel="noopener noreferrer">
-          <img src="./instagram-Icon.png" alt="Instagram" className="all-social-media-icons" />
+          <img src="instagram-Icon.png" alt="Instagram" className="all-social-media-icons" />
         </a>
         <a href="https://github.com/aditya-alshi" target="_blank" rel="noopener noreferrer">
           <img src="github-Icon.png" alt="GitHub" className="all-social-media-icons" />
